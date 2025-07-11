@@ -130,4 +130,21 @@ border-radius: 10px;
     margin-right: 250px;
 
  }
+
+/* touch-section */
+.touch-section{
+    display: flex;
+    margin: 150px;
+}
+
+
+.section-title{
+    font-size: 80px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 1);
+}
  
+    .touch {
+color: rgba(0, 0, 0, 1);
+    
+ }
