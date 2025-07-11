@@ -76,6 +76,7 @@ nav{
  .see{
     font-size: 42px;
     font-weight: bold;
+    margin-right:180px ;
  }
  .look{
     font-size: 24px;
@@ -84,3 +85,49 @@ nav{
  .img2{
     border-radius: 48px;
  }
+ /* Productive Users Section */
+ .productive-users-section{
+background-color: rgba(78, 71, 255, 0.1);
+
+border-radius: 10px;
+
+ }
+ h3{
+    text-align: center; 
+}
+    
+ .see1{font-size: 42px;
+    font-weight: bold;
+    margin: 20px;
+    margin-bottom: 5px;
+    padding:30ox ;
+     text-align: center;
+ }
+ 
+
+ 
+
+ .num1{
+    color: rgba(78, 71, 255, 1);
+    font-size: 80px;
+    font-weight: bold;
+   
+ }
+ .num2{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+ }
+ .num3{
+    margin: 10px;
+ }
+ .num4{
+    display: flex;
+    gap: 200px;
+    padding: 30px;
+    /* margin: 50px; */
+    margin-left: 250px;
+    margin-right: 250px;
+
+ }
+ 
